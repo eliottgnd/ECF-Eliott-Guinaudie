@@ -17,7 +17,7 @@
 </head>
 <body>
     <!-- Ajout du fichier de la nav bar -->
-    <?php include('../html/nav.html'); ?>
+    <?php include('html/nav.html'); ?>
 
     <div class="container mt-5">
         <?php
@@ -94,7 +94,7 @@
     </div>
 
     <!-- Ajout du footer -->
-    <?php include('../html/footer.html'); ?>
+    <?php include('html/footer.html'); ?>
 
     <!-- Bootstrap JS et dépendances -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
