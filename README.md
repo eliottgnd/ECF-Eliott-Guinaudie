@@ -109,7 +109,7 @@ DB_NAME=zoo
 4. Dans un terminal de commande assurez vous que PHP et votre serveur web sont installés et configurés 
 
 ```bash
-php -S localhost:8000
+php -S localhost:3000
 ```
 
 5. Accès à l'application
